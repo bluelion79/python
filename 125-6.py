@@ -1,0 +1,10 @@
+x=22
+y=6
+z=x%y
+print(z)
+z=x+z
+y=z-y
+x=z+y*2
+print(x)
+print(y)
+print(z)

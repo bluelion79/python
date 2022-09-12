@@ -1,0 +1,6 @@
+height=input("키 입력:")
+weight=input("몸무게 입력:")
+height=int(height)
+weight=int(weight)
+bmi=weight/(height*height)
+print("체질량 지수=", bmi)
