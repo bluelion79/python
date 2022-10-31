@@ -4,6 +4,7 @@ python class
 #**2022학년도 2학기 정보 교과 수행평가 계획(예정)**
 
 ##**1차 수행평가: 2022.10.31.(월)-11.04.(금)**
+https://docs.google.com/forms/d/e/1FAIpQLScB7AXXaX9VwSvbPzj3R6B_UFndbkMELz8P4EAaA5yEs9L1lg/viewform
 
 ##**2차 수행평가: 2022.11.07.(월)-11.11.(금)**
 
