@@ -1,19 +1,22 @@
 # python
 python class
 
+#**2022학년도 2학기 자기평가서**
+
+https://forms.gle/A18YLzsVwqk213PX9
+
+
+
 #**2022학년도 2학기 정보 교과 수행평가 계획**
 
 ##**1차 수행평가: 2022.10.31.(월)-11.04.(금)**
 종료
 
 ##**2차 수행평가: 2022.11.07.(월)-11.11.(금)**
-https://forms.gle/s2UBELpXpuqk8i649
+종료
 
 파이썬 수행평가 샘플 자료입니다.
 https://colab.research.google.com/drive/10D7T3ePOjBGJNigl4Pi-vFA-lFYUohY1?usp=sharing
-
-
-
 
 수업 실습용 자료를 임시로 올려 두었습니다.
 수업 시간에 코드를 참고해서 코딩을 진행하시기 바랍니다.
