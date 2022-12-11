@@ -2,7 +2,7 @@
 python class
 
 
-#**고등학교 인공지능 교육 요구분석 **
+#**고등학교 인공지능 교육 요구분석**
 https://docs.google.com/forms/d/e/1FAIpQLSfF0Ox2J7iuJc88cjR5s502JxoQZwbTbRV8quImYX_cCA7YDA/viewform
 
 
