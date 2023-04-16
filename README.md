@@ -1,16 +1,29 @@
-# python
-python class
+# 파이썬 설문지
 
 
-#**고등학교 인공지능 교육 요구분석**
-https://docs.google.com/forms/d/e/1FAIpQLSfF0Ox2J7iuJc88cjR5s502JxoQZwbTbRV8quImYX_cCA7YDA/viewform
 
+
+# 파이썬 수업 필수 자료
+
+## 한글 파이썬 놀이터
+
+http://sugai.co.kr:5000/aiedu_lcnc
+
+## 제주코딩베이스에서 제공하는 무료 PDF와 교육자료 링크 주소
+
+https://www.notion.so/Python-ab40892e094a447ba14531081c32ca41
+
+## 파이썬 쳇봇
+
+https://s2ky.github.io/LDY/
+
+
+
+# 기타 자료
 
 #**2022학년도 2학기 자기평가서**
 
 https://forms.gle/A18YLzsVwqk213PX9
-
-
 
 #**2022학년도 2학기 정보 교과 수행평가 계획**
 
@@ -26,8 +39,3 @@ https://colab.research.google.com/drive/10D7T3ePOjBGJNigl4Pi-vFA-lFYUohY1?usp=sh
 수업 실습용 자료를 임시로 올려 두었습니다.
 수업 시간에 코드를 참고해서 코딩을 진행하시기 바랍니다.
 
-제주코딩베이스에서 제공하는 무료 PDF와 교육자료 링크 주소
-https://www.notion.so/Python-ab40892e094a447ba14531081c32ca41
-
-파이썬 쳇봇
-https://s2ky.github.io/LDY/
