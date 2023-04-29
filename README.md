@@ -1,6 +1,8 @@
-# 파이썬 설문지
+# 파이썬 만화 (인트로 때 사용)
 
+https://joone.net/page/2/
 
+https://joone.net/page/2/
 
 
 # 파이썬 수업 필수 자료
