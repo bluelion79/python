@@ -15,10 +15,9 @@ http://sugai.co.kr:5000/aiedu_lcnc
 
 https://www.notion.so/Python-ab40892e094a447ba14531081c32ca41
 
-## 파이썬 쳇봇
+## 파이썬 기초 강좌
 
-https://s2ky.github.io/LDY/
-
+https://youtu.be/PMTQNEkYNa0
 
 
 # 기타 자료
