@@ -4,8 +4,14 @@ https://joone.net/page/2/
 
 https://joone.net/page/2/
 
+# 파이썬 수업 자료
 
-# 파이썬 수업 필수 자료
+https://colab.research.google.com/drive/1-9u0ZcekiaOhYCDaeKbhpNOr4uQ6oMN5?usp=sharing
+
+
+
+
+# 파이썬 수업 준비 자료
 
 ## 한글 파이썬 놀이터
 
