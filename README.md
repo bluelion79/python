@@ -1,3 +1,8 @@
+# 설문지
+
+https://forms.gle/ShdeYdhjeUeEFtor9
+
+
 # 파이썬 만화 (인트로 때 사용)
 
 https://joone.net/page/2/
